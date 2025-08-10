@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Wild Plus Kernel by TheWildJames or Morgan Weedman
+kernel.string=kyernel with KernelSU Next and SuSFS integrated by enskye for GKI2 devices
 do.devicecheck=0
 do.modules=0
 do.systemless=0
